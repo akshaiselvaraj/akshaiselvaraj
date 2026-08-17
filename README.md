@@ -1,38 +1,14 @@
-<!-- ===== ANIMATED CODING BANNER ===== -->
+<!-- ===== ANIMATED HERO BANNER ===== -->
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/akshaiselvaraj/akshaiselvaraj/main/assets/coding-car.gif"
+    src="https://raw.githubusercontent.com/akshaiselvaraj/akshaiselvaraj/main/assets/coding-car.svg"
     width="100%"
-    alt="Akshai Raj - Coding on the Road"
+    alt="Akshai Raj - AI ML Engineer"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+CS+Student;Building+Intelligent%2C+Production-Ready+Systems;LLMs+%7C+Computer+Vision+%7C+RAG+Pipelines+%7C+React"
-    alt="Typing Banner"
-  />
-</p>
-
-<!-- ===== NAME ===== -->
-
-<pre align="center">
-  █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ██╗
- ██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗██║
- ███████║█████╔╝ ███████╗███████║███████║██║
- ██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║██║
- ██║  ██║██║  ██╗███████║██║  ██║██║  ██║██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-</pre>
-
-<h3 align="center">
-  AI Solution Engineer Intern @ Navigate Labs
-  &nbsp;·&nbsp;
-  Hackathon Builder
-  &nbsp;·&nbsp;
-  AI/ML Engineer
-</h3>
+<!-- ===== SOCIAL LINKS ===== -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshai-selvaraj-777349358/">
@@ -48,17 +24,14 @@
 
 ---
 
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech — Computer Science & Engineering at BIT Campus
-- 🤖 AI Solution Engineer Intern at **Navigate Labs** — building **Nexus AI** (frontend, backend, APIs, performance)
-- 🧠 Passionate about **Computer Vision**, **LLM Agents**, **RAG Pipelines**, and **Intelligent Applications**
-- 🏆 Active hackathon builder — DriveGuard AI, football analytics, wildlife monitoring, crime intelligence
-- 💻 Full-stack with React + TypeScript + Node.js · AI with YOLOv8, MediaPipe, LangChain, FastAPI
-- 🔍 Currently exploring **Deep Learning**, **NLP**, and **AI Engineering**
+- 🤖 AI Solution Engineer Intern at **Navigate Labs**
+- 🧠 Interested in **Computer Vision, LLM Agents, RAG & Intelligent Applications**
+- 🏆 Hackathon builder working on real-world AI solutions
+- 💻 Full-stack development with **React, TypeScript, Node.js & Python**
+- 🔍 Currently exploring **Deep Learning, NLP & AI Engineering**
 
 ---
 
