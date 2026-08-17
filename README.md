@@ -1,34 +1,53 @@
-<!-- ===== TYPING BANNER ===== -->
+<!-- ===== ANIMATED CODING BANNER ===== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+CS+Student;Building+Intelligent%2C+Production-Ready+Systems;LLMs+%7C+Computer+Vision+%7C+RAG+Pipelines+%7C+React" alt="Typing SVG" />
+  <img
+    src="https://raw.githubusercontent.com/akshaiselvaraj/akshaiselvaraj/main/assets/coding-car.gif"
+    width="100%"
+    alt="Akshai Raj - Coding on the Road"
+  />
 </p>
 
-<!-- ===== ASCII NAME ===== -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+CS+Student;Building+Intelligent%2C+Production-Ready+Systems;LLMs+%7C+Computer+Vision+%7C+RAG+Pipelines+%7C+React"
+    alt="Typing Banner"
+  />
+</p>
+
+<!-- ===== NAME ===== -->
+
 <pre align="center">
-  █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ██╗    ██████╗  █████╗      ██╗
- ██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗██║    ██╔══██╗██╔══██╗     ██║
- ███████║█████╔╝ ███████╗███████║███████║██║    ██████╔╝███████║     ██║
- ██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║██║    ██╔══██╗██╔══██║██   ██║
- ██║  ██║██║  ██╗███████║██║  ██║██║  ██║██║    ██║  ██║██║  ██║╚█████╔╝
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+  █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ██╗
+ ██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗██║
+ ███████║█████╔╝ ███████╗███████║███████║██║
+ ██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║██║
+ ██║  ██║██║  ██╗███████║██║  ██║██║  ██║██║
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 </pre>
 
 <h3 align="center">
-  AI Solution Engineer Intern @ Navigate Labs &nbsp;·&nbsp; Hackathon Builder &nbsp;·&nbsp; Open to Opportunities
+  AI Solution Engineer Intern @ Navigate Labs
+  &nbsp;·&nbsp;
+  Hackathon Builder
+  &nbsp;·&nbsp;
+  AI/ML Engineer
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshai-selvaraj-777349358/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/akshaiselvaraj">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+
   <a href="https://github.com/akshaiselvaraj">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=akshaiselvaraj&label=Profile+Views&color=6366f1&style=flat-square"/>
+
+  <img src="https://komarev.com/ghpvc/?username=akshaiselvaraj&label=Profile+Views&color=6366F1&style=flat-square"/>
 </p>
+
+---
+
 
 ---
 
