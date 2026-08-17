@@ -1,99 +1,159 @@
-<div align="center">
+<!-- ===== TYPING BANNER ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+CS+Student;Building+Intelligent%2C+Production-Ready+Systems;LLMs+%7C+Computer+Vision+%7C+RAG+Pipelines+%7C+React" alt="Typing SVG" />
+</p>
 
-# Akshai Raj
+<!-- ===== ASCII NAME ===== -->
+<pre align="center">
+  █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ██╗    ██████╗  █████╗      ██╗
+ ██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗██║    ██╔══██╗██╔══██╗     ██║
+ ███████║█████╔╝ ███████╗███████║███████║██║    ██████╔╝███████║     ██║
+ ██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║██║    ██╔══██╗██╔══██║██   ██║
+ ██║  ██║██║  ██╗███████║██║  ██║██║  ██║██║    ██║  ██║██║  ██║╚█████╔╝
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+</pre>
 
-**AI/ML Engineer · Full-Stack Developer · CS Student**
+<h3 align="center">
+  AI Solution Engineer Intern @ Navigate Labs &nbsp;·&nbsp; Hackathon Builder &nbsp;·&nbsp; Open to Opportunities
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshai-selvaraj-777349358/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/akshaiselvaraj)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/akshaiselvaraj)
-[![Profile Views](https://komarev.com/ghpvc/?username=akshaiselvaraj&color=6366f1&style=flat&label=Profile+Views)](https://github.com/akshaiselvaraj)
-
-</div>
-
----
-
-## About
-
-Computer Science student focused on building intelligent, production-ready systems. I work across the full stack — from training models and designing pipelines to shipping React frontends and REST APIs. Currently interning as an AI Solution Engineer at **Navigate Labs**, building on their flagship AI product, Nexus.
-
-I'm drawn to problems where AI and software engineering intersect: retrieval-augmented generation, computer vision, real-time inference, and intelligent application design. I sharpen fundamentals through competitive programming and hackathons.
-
-```
-Currently exploring → LLM Agents · RAG Pipelines · Deep Learning · NLP
-```
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat&logo=express&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Databases & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshai-selvaraj-777349358/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/akshaiselvaraj">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/akshaiselvaraj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=akshaiselvaraj&label=Profile+Views&color=6366f1&style=flat-square"/>
+</p>
 
 ---
 
-## GitHub Stats
+## 👨‍💻 About Me
 
-<div align="center">
-
-![Stats](https://github-readme-stats.shion.dev/api?username=akshaiselvaraj&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=6366f1&title_color=6366f1&text_color=e2e8f0)
-
-![Streak](https://streak-stats.demolab.com/?user=akshaiselvaraj&theme=transparent&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=akshaiselvaraj&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=6366f1&text_color=e2e8f0)
-
-</div>
+- 🎓 B.Tech — Computer Science & Engineering at BIT Campus
+- 🤖 AI Solution Engineer Intern at **Navigate Labs** — building **Nexus AI** (frontend, backend, APIs, performance)
+- 🧠 Passionate about **Computer Vision**, **LLM Agents**, **RAG Pipelines**, and **Intelligent Applications**
+- 🏆 Active hackathon builder — DriveGuard AI, football analytics, wildlife monitoring, crime intelligence
+- 💻 Full-stack with React + TypeScript + Node.js · AI with YOLOv8, MediaPipe, LangChain, FastAPI
+- 🔍 Currently exploring **Deep Learning**, **NLP**, and **AI Engineering**
 
 ---
 
-## Top Contributions
+## ⚡ Tech Stack
 
-<div align="center">
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c" />
+</p>
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=akshaiselvaraj&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true&title_color=6366f1)
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
+</p>
 
-</div>
+> LangChain · LangGraph · YOLOv8 · MediaPipe · DeepFace · OpenVINO · NumPy · Pandas · Matplotlib
+
+### Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi,tailwind" />
+</p>
+
+### Databases & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,aws,vercel" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+</p>
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-*Building practical AI systems. Open to collaborations, research, and opportunities.*
+| Project | Description | Stack |
+|---|---|---|
+| 🚗 **DriveGuard AI** | Real-time driver safety — drowsiness, aggression & emotion detection with weighted risk engine | YOLOv8 · MediaPipe · DeepFace · FastAPI · React |
+| ⚽ **Football Analytics** | AI player & ball tracking system for match analysis | YOLOv8s · OpenVINO · OpenCV |
+| 🦁 **Viyal** | Forest & wildlife monitoring platform with AI detection | Computer Vision · FastAPI · React |
+| 🔍 **Vikshana** | AI-powered crime intelligence platform (IEEE paper) | NLP · LangChain · FastAPI |
+| ✅ **Task Manager** | Full-stack task app — React + TypeScript + Prisma + PostgreSQL | [github.com/akshaiselvaraj/taskmanager](https://github.com/akshaiselvaraj/taskmanager) |
 
-</div>
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=akshaiselvaraj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=6366f1&title_color=6366f1" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akshaiselvaraj&theme=tokyonight&hide_border=true&layout=compact&title_color=6366f1" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akshaiselvaraj&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="150"/>
+</p>
+
+<!-- ===== SNAKE ANIMATION ===== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshaiselvaraj/akshaiselvaraj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshaiselvaraj/akshaiselvaraj/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akshaiselvaraj/akshaiselvaraj/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackZen%202026-DriveGuard%20AI%20Builder-6366f1?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Navigate%20Labs-AI%20Solution%20Engineer%20Intern-0ea5e9?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/IEEE%20Paper-Vikshana%20Submission-22c55e?style=for-the-badge&logo=ieee&logoColor=white"/>
+</p>
+
+---
+
+## 👀 Profile Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshaiselvaraj&label=Profile+Views&color=6366f1&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/akshaiselvaraj?label=Followers&style=for-the-badge&color=6366f1"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/akshaiselvaraj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/akshai-selvaraj-777349358/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/akshaiselvaraj">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💬 Developer Quote
+
+> *Build. Ship. Learn. Repeat. 🚀*
+
+---
+
+<p align="center">
+  <i>Open to collaborations, research, and product-based placement opportunities.</i>
+</p>
