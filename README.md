@@ -8,7 +8,7 @@
   <img
     src="https://raw.githubusercontent.com/akshaiselvaraj/akshaiselvaraj/main/coding.gif"
     width="100%"
-    alt="Akshai Raj - Developer"
+    alt="Akshai Selvaraj"
   />
 </p>
 
@@ -18,7 +18,7 @@
 
 <!-- ========================================================= -->
 
-<h1 align="center">Hi, I'm Akshai Raj 👋</h1>
+<h1 align="center">Hi, I'm Akshai Selvaraj 👋</h1>
 
 <p align="center">
   <strong>AI/ML Engineer · Full-Stack Developer · Problem Solver</strong>
